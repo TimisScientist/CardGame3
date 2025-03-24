@@ -1,0 +1,10 @@
+[
+  { "src": "card1.jpg", "alt": "卡牌1" },
+  { "src": "card2.jpg", "alt": "卡牌2" },
+  { "src": "card3.jpg", "alt": "卡牌3" },
+  { "src": "card4.jpg", "alt": "卡牌4" },
+  { "src": "card5.jpg", "alt": "卡牌5" },
+  { "src": "card6.jpg", "alt": "卡牌6" },
+  { "src": "card7.jpg", "alt": "卡牌7" },
+  { "src": "card8.jpg", "alt": "卡牌8" }
+]
